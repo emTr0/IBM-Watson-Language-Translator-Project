@@ -1,6 +1,6 @@
-# IBM PY0222EN Python for AI Development Project
+# Watson Language Translator Project
 
-This was the final project for an IBM/edX course. Since completing this course, I now have experience with:
+This was the final project for the Python for AI Development IBM/edX course. Since completing this course, I now have experience with:
 
 - Unit Testing
 - Creating Python packages
