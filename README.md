@@ -1,4 +1,4 @@
-# Watson Language Translator Project
+# IBM Watson Language Translator Project
 
 This was the final project for the Python for AI Development IBM/edX course. Since completing this course, I now have experience with:
 
